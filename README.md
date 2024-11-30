@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #0e75b6; border-radius: 15px; padding: 20px; background-color: #f4f9ff;">
   <p>
-    <img src="https://media.giphy.com/media/QL1HGfcszTGN2/giphy.gif" alt="Coding Image" width="600"/>
+    <img src="https://media.giphy.com/media/jnWAi68AxKQKLwL1Dy/giphy.gif" alt="Coding Image" width="600"/>
   </p>
   <h1>Salut 👋, je m’appelle Sorin</h1>
   <h3>Étudiant en 2ème année de BTS CIEL Option : IR</h3>
