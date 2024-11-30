@@ -1,6 +1,6 @@
 <div align="center" style="border: 2px solid #0e75b6; border-radius: 15px; padding: 20px; background-color: #f4f9ff;">
   <p>
-    <img src="https://media.giphy.com/media/jnWAi68AxKQKLwL1Dy/giphy.gif" alt="Coding Image" width="600"/>
+    <img src="https://www.meosis.fr/wp-content/uploads/2020/09/gif-code.gif" width="1000" height="281"/>
   </p>
   <h1>Salut 👋, je m’appelle Sorin</h1>
   <h3>Étudiant en 2ème année de BTS CIEL Option : IR</h3>
@@ -11,22 +11,19 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sorin04&label=Profile%20views&color=0e75b6&style=flat" alt="sorin04" /> 
 </p>
+- 🔭 Je travaille actuellement sur **Android Coroutine**
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sorin04" alt="sorin04" />
-  </a> 
-</p>
+- 🌱 J’apprends actuellement **Android**
 
-### 📫 Comment me joindre
-- **sorin.pirgari@lyceeastier.com**
+- 💬 Compétences: **Force de proposition**
 
-### ⚡ Fun fact
-- **Persévérant**
+- 📫 Comment me joindre: **sorin.pirgari@lyceeastier.com**
 
----
+- ⚡ À propos de moi: **Persévérant**
 
-<h3 align="left">Connectez-vous avec moi :</h3>
+
+
+<h3 align="left">Réseaux professionnels:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sorin-pirgari-228a36309/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-sorin-pirgari" height="30" width="40" />
@@ -74,10 +71,14 @@
 <h3 align="left">Stats :</h3>
 <div align="center" style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorin04&show_icons=true&locale=en&layout=compact" alt="sorin04" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorin04&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=500&langs=c%2B%2B%2Cjava%2Cpython%2Ckotlin%2Chtml%2Ccss%2Cphp%2Cjavascript%2Ccsharp" alt="sorin04" />
+
   </p>
 
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sorin04&show_icons=true&locale=en" alt="sorin04" />
   </p>
 </div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sorin04&" alt="sorin04" /></p>
+
