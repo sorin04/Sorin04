@@ -11,9 +11,9 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sorin04&label=Profile%20views&color=0e75b6&style=flat" alt="sorin04" /> 
 </p>
-- 🔭 Je travaille actuellement sur **Android Coroutine**
+- 🔭 Je travaille actuellement sur **Mon Projet de fin d'étude**
 
-- 🌱 J’apprends actuellement **Android**
+- 🌱 J’apprends actuellement **Node JS**
 
 - 💬 Compétences: **Force de proposition**
 
