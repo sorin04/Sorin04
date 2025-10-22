@@ -1,29 +1,29 @@
 <div align="center" style="border: 2px solid #0e75b6; border-radius: 15px; padding: 20px; background-color: #f4f9ff;">
   <p>
-    <img src="https://www.meosis.fr/wp-content/uploads/2020/09/gif-code.gif" width="1000" height="281"/>
+    <img src="https://johnandsmithglobal.com/newpages/images/it-security.gif" width="1000" height="281"/>
   </p>
   <h1>Salut 👋, je m’appelle Sorin</h1>
-  <h3>Étudiant en 2ème année de BTS CIEL Option : IR</h3>
+  <h3>Étudiant en 3ème année de Licence Sciences Pour l'Ingénieur</h3>
+  <h4 style="color:#0e75b6;">💼 Actuellement à la recherche d’une alternance dans le domaine de l’informatique</h4>
 </div>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sorin04&label=Profile%20views&color=0e75b6&style=flat" alt="sorin04" /> 
+  <img src="https://komarev.com/ghpvc/?username=sorin04&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="sorin04" /> 
 </p>
-- 🔭 Je travaille actuellement sur **Mon Projet de fin d'étude**
-
-- 🌱 J’apprends actuellement **Node JS**
-
-- 💬 Compétences: **Force de proposition**
-
-- 📫 Comment me joindre: **sorin.pirgari@lyceeastier.com**
-
-- ⚡ À propos de moi: **Persévérant**
 
 
+- 🎯 Étudiant motivé et passionné par le développement et les nouvelles technologies  
+- 🌱 J’apprends actuellement **le développement full-stack et les bases de la cybersécurité**  
+- 💬 Compétence principale : **Force de proposition et autonomie dans le travail**  
+- ⚡ Qualité personnelle : **Persévérant et curieux**  
+- 📫 Me contacter : **sorin.pirgari@lyceeastier.com**
 
-<h3 align="left">Réseaux professionnels:</h3>
+---
+
+### 🤝 Réseaux professionnels
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sorin-pirgari-228a36309/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-sorin-pirgari" height="30" width="40" />
@@ -32,8 +32,9 @@
 
 ---
 
-<h3 align="left">Langues et outils :</h3>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+### 🧰 Langages et outils
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   </a> 
@@ -68,23 +69,19 @@
 
 ---
 
-<h3 align="left">Stats :</h3>
+### 📊 Statistiques GitHub
+
 <div align="center" style="border: 1px solid #ccc; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-  <!-- Langues -->
-  <div style="margin-bottom: 20px; height: 300px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sorin04&show_icons=true&locale=en&layout=compact&langs_count=8&card_width=500&langs=c%2B%2B%2Cjava%2Cpython%2Ckotlin%2Chtml%2Ccss%2Cphp%2Cjavascript%2Ccsharp" alt="sorin04" style="max-height: 100%; max-width: 100%;" />
+  
+  <div style="margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sorin04&show_icons=true&locale=fr&layout=compact&langs_count=8&card_width=500" alt="Langages les plus utilisés" />
   </div>
 
-  <!-- Stats principales -->
-  <div style="margin-bottom: 20px; height: 300px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sorin04&show_icons=true&locale=en" alt="sorin04" style="max-height: 100%; max-width: 100%;" />
+  <div style="margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sorin04&show_icons=true&locale=fr" alt="Statistiques GitHub" />
   </div>
 
-  <!-- Streak -->
-  <div style="height: 300px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sorin04&" alt="sorin04" style="max-height: 100%; max-width: 100%;" />
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sorin04&locale=fr" alt="GitHub Streak" />
   </div>
 </div>
-
-
-
