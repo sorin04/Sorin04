@@ -4,7 +4,6 @@
   </p>
   <h1>Salut 👋, je m’appelle Sorin</h1>
   <h3>Étudiant en 3ème année de Licence Sciences Pour l'Ingénieur</h3>
-  <h4 style="color:#0e75b6;">💼 Actuellement à la recherche d’une alternance dans le domaine de l’informatique</h4>
 </div>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
