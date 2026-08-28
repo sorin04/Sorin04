@@ -3,7 +3,7 @@
     <img src="https://johnandsmithglobal.com/newpages/images/it-security.gif" width="1000" height="281"/>
   </p>
   <h1>Salut 👋, je m’appelle Sorin</h1>
-  <h3>Étudiant en 3ème année de Licence Sciences Pour l'Ingénieur</h3>
+  <h3>Étudiant en M1 Cybersécurité</h3>
 </div>
 
 <p align="left"> 
