@@ -11,11 +11,11 @@
 </p>
 
 
-- 🎯 Étudiant à l'EPSI Toulouse, passionné par la cybersécurité et les infrastructures IT  
+- 🎯 Étudiant à l'EPSI Toulouse, passionné par la cybersécurité et les infrastructures IT.
 - 🌱 J’apprends actuellement la cybersécurité, les réseaux et les systèmes avec des bases solides en développement. 
-- 💬 Compétence principale : **Force de proposition et autonomie dans le travail**  
-- ⚡ Qualité personnelle : **Persévérant et curieux**  
-- 📫 Me contacter : **sorin.pirgari@lyceeastier.com**
+- 💬 Compétence principale : Force de proposition et autonomie dans le travail  
+- ⚡ Qualité personnelle : Persévérant et curieux  
+- 📫 Me contacter : sorin.pirgari@lyceeastier.com
 
 ---
 
