@@ -11,8 +11,8 @@
 </p>
 
 
-- 🎯 Étudiant motivé et passionné par le développement et les nouvelles technologies  
-- 🌱 J’apprends actuellement **le développement full-stack et les bases de la cybersécurité**  
+- 🎯 Étudiant à l'EPSI Toulouse, passionné par la cybersécurité et les infrastructures IT  
+- 🌱 J’apprends actuellement la cybersécurité, les réseaux et les systèmes avec des bases solides en développement. 
 - 💬 Compétence principale : **Force de proposition et autonomie dans le travail**  
 - ⚡ Qualité personnelle : **Persévérant et curieux**  
 - 📫 Me contacter : **sorin.pirgari@lyceeastier.com**
